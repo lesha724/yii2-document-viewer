@@ -1,0 +1,21 @@
+{
+    "name": "lesha724/yii2-document-viewer",
+    "description": "виджет для отображения online документов с помощью google viewer и microsoft document viewer",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lesha724",
+            "email": "neff.alexey@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "lesha724\\documentviewer\\": ""
+        }
+    }
+}
