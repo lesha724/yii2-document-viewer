@@ -34,7 +34,7 @@ Once the extension is installed, simply use it in your code by  :
       'height'=>'100%',
       //https://geektimes.ru/post/111647/
       'embedded'=>true,
-      'a'=>\lesha724\documentviewer\GoogleDocumentViewer::A_V //A_V = 'v', A_GT= 'gt', A_BI = 'bi'
+      'a'=>\lesha724\documentviewer\GoogleDocumentViewer::A_BI //A_V = 'v', A_GT= 'gt', A_BI = 'bi'
 ]); ?>
 
 ```
