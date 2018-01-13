@@ -50,7 +50,7 @@ class ViewerJsDocumentViewer extends ADocumentViewer
     public function init()
     {
         ViewerJsAssets::register($this->view);
-        $this->_urlViewer = \Yii::$app->assetManager->getPublishedUrl('@vendor/bower/viewerjs/ViewerJs');
+        $this->_urlViewer = \Yii::$app->assetManager->getPublishedUrl('@vendor/bower/viewerjs/ViewerJS');
         parent::init();
     }
 

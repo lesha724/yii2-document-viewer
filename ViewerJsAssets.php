@@ -20,7 +20,7 @@ class ViewerJsAssets extends AssetBundle
     /**
      * @var string the directory that contains the source asset files for this asset bundle.
      */
-    public $sourcePath = '@vendor/bower/viewerjs/ViewerJs';
+    public $sourcePath = '@vendor/bower/viewerjs/ViewerJS';
     /**
      * @var array list of JavaScript files that this bundle contains.
      */
